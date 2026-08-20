@@ -78,7 +78,7 @@ plt.legend(title='Cluster')
 plt.show()
 
 
-
+```
 
 ## Output:
 
